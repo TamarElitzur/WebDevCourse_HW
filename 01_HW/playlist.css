@@ -44,3 +44,15 @@ iframe {
 tbody tr:hover {
   background-color: #f1f1f1;
 }
+
+.header-blue {
+  background-color: #4d63cd;
+  color: white;
+}
+
+.highlight-row {
+  background-color: #9bb0c5;
+  color: #1d3557;
+  font-weight: bold;
+  font-size: 1.5em;
+}
