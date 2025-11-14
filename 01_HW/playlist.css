@@ -56,3 +56,15 @@ tbody tr:hover {
   font-weight: bold;
   font-size: 1.5em;
 }
+
+.song-link {
+  color: #1d3557;
+  font-weight: bold;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.song-link:hover {
+  color: #cd4d58;
+  text-decoration: underline;
+}
